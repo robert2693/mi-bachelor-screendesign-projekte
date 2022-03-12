@@ -17,11 +17,11 @@ gallery:
     - Notzon-Klein-Web2.jpg
     - Notzon-Klein-Web3.jpg
     - Notzon-Klein-Web4.jpg
-    - Notzon-Klein-Web5.jpg
+    - Notzon-Klein-Web5.png
     - Notzon-Klein-Web6.jpg
     - Notzon-Klein-Web7.jpg
     - Notzon-Klein-Web8.jpg
-    - Notzon-Klein-Web9.jpg
+    - Notzon-Klein-Web9.png
 styleguide: Notzon-Klein-StyleGuide.svg
 ---
 
